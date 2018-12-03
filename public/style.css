@@ -1,0 +1,16 @@
+body {
+  font-family: arial;
+  font-size: 20px;
+}
+
+h1{
+  text-align: center;
+  font-family: arial;
+  font-color: black;
+}
+
+p{
+  font-family: arial;
+  font-color: blue;
+  text-align: center;
+}
